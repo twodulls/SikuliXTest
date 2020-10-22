@@ -11,3 +11,4 @@ Test Automation using SikuliX, Selenium
 2. 파일 선택 버튼 클릭
 3. Test.docx 파일 선택 후 업로드인 - SikuliX 적용
 4. 성공 메시지 확인
+<img width="800" alt="스크린샷 2020-10-22 오후 4 22 31" src="https://user-images.githubusercontent.com/25242202/96845026-32c96080-148b-11eb-920f-0ee0eb38d9bf.png">
