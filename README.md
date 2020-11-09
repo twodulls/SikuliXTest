@@ -5,6 +5,7 @@ Test Automation using SikuliX, Selenium
 - Browser : Chrome v86.0.4240.80
 - OS : Mac 10.15.3
 - IDE : IntelliJ 2019.3
+- Language & Framework : java, selenium, sikuliX, TestNG
 
 [테스트 시나리오]
 1. http://demo.guru99.com/test/image_upload/index.php 에 접속
